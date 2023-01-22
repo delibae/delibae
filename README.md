@@ -32,8 +32,8 @@
   <br/>
 <p/>
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![delibae's github stats](https://github-readme-stats.vercel.app/api?username=delibae&show_icons=true)
-[![delibae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delibae&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/delibae)
 
-</>
+[![delibae's GitHub stats](https://github-readme-stats.vercel.app/api?username=delibae&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/delibae/github-readme-stats)
+</div>
