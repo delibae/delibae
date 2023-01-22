@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <br/>
 <p/>
-
+<p align="center">
 ![delibae's github stats](https://github-readme-stats.vercel.app/api?username=delibae&show_icons=true)
 [![delibae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delibae&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/delibae)
+<p/>
