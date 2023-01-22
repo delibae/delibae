@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delibae&show_icons=true&theme=radical)
+![delibae's github stats](https://github-readme-stats.vercel.app/api?username=delibae&show_icons=true)
+[![delibae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delibae&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/delibae)
