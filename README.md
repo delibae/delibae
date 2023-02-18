@@ -14,9 +14,11 @@
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>&nbsp
+    <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>&nbsp
   <br/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/grafana-2496ED?style=for-the-badge&logo=grafana&logoColor=white"></a>&nbsp
   <br/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white"></a>&nbsp
