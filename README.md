@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp
   <br/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp
   <br/>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>&nbsp
