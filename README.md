@@ -27,13 +27,13 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>&nbsp
 <!--   <img src="https://img.shields.io/badge/seaborn-06B6D4?style=for-the-badge&logo=seaborn&logoColor=white"></a>&nbsp -->
-  <br/>
+<!--   <br/> -->
 <!--   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
-  <br/>
+<!--   <br/> -->
 <!--   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> -->
-  <br/>
+<!--   <br/> -->
 <p/>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
