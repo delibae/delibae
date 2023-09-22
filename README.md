@@ -23,7 +23,7 @@
   <br/>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>&nbsp
 <!--   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>&nbsp -->
-  <img src="https://img.shields.io/badge/triton-00BFFF?style=for-the-badge&logo=openai&logoColor=white"></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/triton-00BFFF?style=for-the-badge&logo=openai&logoColor=white"></a>&nbsp -->
   <br/>
   <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>&nbsp
 <p/>
