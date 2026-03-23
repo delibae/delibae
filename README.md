@@ -2,7 +2,9 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hanjin%20Bae&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20%26%20ML%20Engineer&descSize=20&descColor=8B949E&descAlignY=75" />
+# Hanjin Bae
+
+Research → Ship → Scale
 
 </div>
 
