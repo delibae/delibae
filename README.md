@@ -1,20 +1,17 @@
 <div align="center">
 
+
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Hanjin+Bae&font=JetBrains%20Mono&center=true&width=300&height=50&color=FFFFFF&vCenter=true&size=32&repeat=false&duration=1" />
+
   <a href="https://github.com/delibae">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+delibae.;Full-Stack+%26+ML+Engineer.;Building+Scalable+Systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+ML+Engineer;Building+Scalable+Systems;Shipping+Zero+to+One&font=JetBrains%20Mono&center=true&width=500&height=45&color=FFFFFF&vCenter=true&pause=1000&size=20" />
   </a>
-
-  <br>
-
-  <p>
-    I build <b>end-to-end systems</b> across web, infrastructure, and machine learning.
-  </p>
 
 </div>
 
-<br>
 
-### The Full Engineering Arsenal
+### Built With
 
 | **Domain** | **Tech Stack** |
 | :--- | :--- |
@@ -26,14 +23,3 @@
 | **Data & DB** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **Cloud** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![RunPod](https://img.shields.io/badge/RunPod-6B46C1?style=flat-square&logo=runpod&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=delibae&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-
-</div>
-
-<br>
-
-</div>
